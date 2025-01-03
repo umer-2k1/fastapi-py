@@ -1,0 +1,13 @@
+**/__pycache__/
+app/check.py
+data
+migrations
+docker-compose.yml
+.env
+venv
+venv1
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+app/graphs/desired_outcomes/check.ipynb
